@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm passionate about Machine Learning, Data Scienc
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 - **Data Visualization**:  
-  ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-4A4A55?style=for-the-badge) ![Pydeck](https://img.shields.io/badge/-Pydeck-3E4A89?style=for-the-badge) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+  ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-4A4A55?style=for-the-badge) ![Pydeck](https://img.shields.io/badge/-Pydeck-3E4A89?style=for-the-badge) ![Folium](https://img.shields.io/badge/-Folium-77B829?style=for-the-badge&logo=leaflet&logoColor=white)
 
 - **Web Development**:  
   ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm passionate about Machine Learning, Data Scienc
 ---
 
 ### 📊 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=young-epish&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=young-epish&layout=compact&theme=nord)
 
 
 ---
