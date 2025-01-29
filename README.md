@@ -1,4 +1,4 @@
-## Hi there, I'm Vladi! 👋
+## Hi there, I'm Vladislav! 👋
 
 Welcome to my GitHub profile! I'm passionate about Machine Learning, Data Science, and building useful tools to solve real-world problems.
 
